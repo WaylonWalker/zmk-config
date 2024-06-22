@@ -10,4 +10,4 @@
             bindings = <&kp KP_A>;
         };
     };
-}
+};
