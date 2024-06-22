@@ -4,10 +4,10 @@
 
 / {
     keymap {
-        compatible = "zmk, keymap";
+        compatible = "zmk,keymap";
 
         default_layer {
-            bindings = <&kp KP_A>;
+            bindings = <&kp KC_A>;
         };
     };
 };
