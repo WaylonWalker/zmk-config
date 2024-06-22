@@ -1,0 +1,5 @@
+if SHIELD_1PERC
+
+config ZMK_KEYBOARD_NAME
+    default "1perc"
+endif
